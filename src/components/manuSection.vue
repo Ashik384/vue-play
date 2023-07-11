@@ -7,7 +7,7 @@ const foodMenu = [
     name: "Bread Basket",
     details: "Assortment of fresh baked fruit breads and muffins 5.50",
   },
-  {
+  { 
     name: "Honey Almond Granola with Fruits",
     details: "Assortment of fresh baked fruit breads and muffins 5.50",
   },
