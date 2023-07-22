@@ -6,11 +6,14 @@ import ManuSection from './components/manuSection.vue';
 import classBind from './components/classBinding/classBind.vue';
 import styleBinding from './components/styleBinding/styleBinding.vue';
 import Loop from './components/loop/loop.vue';
+import event from './components/event/event.vue';
 </script>
 
 <template>
 
-  <Loop/>
+  <!-- <Loop/> -->
+
+  <event/>
 
 </template>
 
