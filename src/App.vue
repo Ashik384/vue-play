@@ -3,7 +3,8 @@ import navBar from './components/navBar.vue';
 import headerSection from './components/headerSection.vue'
 import AboutSection from './components/aboutSection.vue';
 import ManuSection from './components/manuSection.vue';
-import classBind from './components/test/classBind.vue';
+import classBind from './components/classBinding/classBind.vue';
+import styleBinding from './components/styleBinding/styleBinding.vue';
 </script>
 
 <template>
@@ -19,7 +20,9 @@ import classBind from './components/test/classBind.vue';
   <!-- <ManuSection/> -->
 
   <!-- Class Buidng Template  -->
-  <classBind/> 
+  <!-- <classBind/>  -->
+
+  <styleBinding/>
 
 </template>
 
