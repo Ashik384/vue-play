@@ -7,13 +7,16 @@ import classBind from './components/classBinding/classBind.vue';
 import styleBinding from './components/styleBinding/styleBinding.vue';
 import Loop from './components/loop/loop.vue';
 import event from './components/event/event.vue';
+import Accordion from './components/accordion/accordion.vue';
 </script>
 
 <template>
 
   <!-- <Loop/> -->
 
-  <event/>
+  <!-- <event/> -->
+ 
+  <Accordion/>
 
 </template>
 
