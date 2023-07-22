@@ -5,24 +5,12 @@ import AboutSection from './components/aboutSection.vue';
 import ManuSection from './components/manuSection.vue';
 import classBind from './components/classBinding/classBind.vue';
 import styleBinding from './components/styleBinding/styleBinding.vue';
+import Loop from './components/loop/loop.vue';
 </script>
 
 <template>
-  <!-- NavBar Section -->
-  <!-- <navBar/> -->
-  <!-- Header Section -->
-  <!-- <headerSection/> -->
 
-  <!-- About Section -->
-  <!-- <AboutSection/> -->
-
-  <!-- Menu Section -->
-  <!-- <ManuSection/> -->
-
-  <!-- Class Buidng Template  -->
-  <!-- <classBind/>  -->
-
-  <styleBinding/>
+  <Loop/>
 
 </template>
 
