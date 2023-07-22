@@ -3,19 +3,23 @@ import navBar from './components/navBar.vue';
 import headerSection from './components/headerSection.vue'
 import AboutSection from './components/aboutSection.vue';
 import ManuSection from './components/manuSection.vue';
+import classBind from './components/test/classBind.vue';
 </script>
 
 <template>
   <!-- NavBar Section -->
-  <navBar/>
+  <!-- <navBar/> -->
   <!-- Header Section -->
-  <headerSection/>
+  <!-- <headerSection/> -->
 
   <!-- About Section -->
-  <AboutSection/>
+  <!-- <AboutSection/> -->
 
   <!-- Menu Section -->
-  <ManuSection/>
+  <!-- <ManuSection/> -->
+
+  <!-- Class Buidng Template  -->
+  <classBind/> 
 
 </template>
 

@@ -13,7 +13,7 @@
             <a href="#menu" class="w3-bar-item w3-button">Menu</a>
             <a href="#contact" class="w3-bar-item w3-button">Contact</a>
             </div>
-        </div>
+        </div> 
     </div>
 </template>
 
