@@ -13,7 +13,6 @@ function getAJoke(){
     .then(data=>{
         joke.value = data.value
     })
-    
 }
 
 </script>
