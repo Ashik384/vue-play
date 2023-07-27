@@ -8,15 +8,12 @@ import styleBinding from './components/styleBinding/styleBinding.vue';
 import Loop from './components/loop/loop.vue';
 import event from './components/event/event.vue';
 import Accordion from './components/accordion/accordion.vue';
+import Chunkmorris from './components/chunkmorris/chunkmorris.vue';
 </script>
 
 <template>
 
-  <!-- <Loop/> -->
-
-  <!-- <event/> -->
- 
-  <Accordion/>
+ <Chunkmorris/>
 
 </template>
 
