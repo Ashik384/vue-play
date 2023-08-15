@@ -1,13 +1,13 @@
 <script setup>
-import dataBind from './components/data-bind/dataBind.vue';
+import RandomCode from './components/randomCode/randomCode.vue';
 </script>
 
 <template>
 
- <dataBind/>
+<RandomCode/>
+
 
 </template>
-
 <style scoped>
 
 </style>
