@@ -1,10 +1,10 @@
 <script setup>
-import Model from './components/model/model.vue';
+import dataBind from './components/data-bind/dataBind.vue';
 </script>
 
 <template>
 
- <Model />
+ <dataBind/>
 
 </template>
 
