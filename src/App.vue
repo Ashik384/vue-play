@@ -1,11 +1,10 @@
 <script setup>
-import RandomCode from './components/randomCode/randomCode.vue';
+import ApiCalling from './components/api/ApiCalling.vue';
 </script>
 
 <template>
 
-<RandomCode/>
-
+<ApiCalling/>
 
 </template>
 <style scoped>
