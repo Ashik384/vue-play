@@ -1,10 +1,20 @@
 <script setup>
-import ApiCalling from './components/api/ApiCalling.vue';
+    import ProductList from './components/crud/ProductList.vue';
 </script>
 
 <template>
 
-<ApiCalling/>
+    <RouterView />
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <RouterLink to="/">Product List</RouterLink>
+                <RouterLink to="/create">Create Product</RouterLink>
+            </div>
+        </div>
+    </div>
+
 
 </template>
 <style scoped>
